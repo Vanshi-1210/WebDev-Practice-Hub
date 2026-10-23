@@ -1,3 +1,5 @@
+// Check the traffic light color and print the appropriate instruction.
+
 let lightColor="yellow";
 if(lightColor=="red"){
     console.log("Stop,Traffic light is red");
