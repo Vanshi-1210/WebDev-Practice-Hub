@@ -1,3 +1,5 @@
+// Assign a grade based on the marks obtained.
+
 let marks=28;
 if(marks>=80){
     console.log("A+");
